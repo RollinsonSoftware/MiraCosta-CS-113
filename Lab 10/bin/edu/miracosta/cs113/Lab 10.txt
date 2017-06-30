@@ -1,0 +1,13 @@
+Lab: 10
+
+Root = Lay
+
+----------------------------------------------------
+
+Preorder: Lay, House, Cow, Jack, Rat, Milked, That
+
+Inorder: Cow, House, Jack, Lay, Milked, Rat, That
+
+Postorder: Cow, Jack, House, Milked, That, Rat, Lay
+
+----------------------------------------------------

@@ -1,2 +1,3 @@
-# MiraCosta-CS-113
-All homeworks, labs and projects for CS 113 2017.
+# jrollinson
+
+Homeworks and Labs for Computer Science 113 at Miracosta
